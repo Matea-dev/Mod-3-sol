@@ -1,0 +1,47 @@
+body {
+	background-color: #ffe6e6;
+	margin-bottom: 20px;
+}
+
+.navbar-collapse {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+
+
+.starter-template {
+
+	background-color: ffe6e6;
+	padding: 20px;
+}
+
+h2{
+	padding-bottom: 20px;
+}
+
+.lead {
+	text-align: center;
+	margin-bottom: -10px;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+p {
+	font-size: 20px;
+}
+
+#beef {
+	background-color: yellow;
+	margin-bottom: 20px;
+}
+
+#chicken {
+	background-color: #ff6666;
+	margin-bottom: 20px;
+}
+
+#sushi {
+	background-color: #ff6666;
+}
+
